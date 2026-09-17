@@ -1,6 +1,8 @@
 # my-first-website-
 frist website 
-index.html
+DigiVerse-Ai
+Welcome to my first AI website!
+[Explore AI Videos]
 <!DOCTYPE html>
 <html>
 <head>
