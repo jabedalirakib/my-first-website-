@@ -3,16 +3,21 @@ frist website
 DigiVerse-Ai
 Welcome to my first AI website!
 [Explore AI Videos]
+
 <!DOCTYPE html>
 <html>
-<link rel="stylesheet" href="style.css">
 <head>
-    <title>My First Website</title>
+    <title>DigiVerse-Ai</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <h1>Welcome to My Website</h1>
-    <p>This is my first website created with HTML.</p>
+    <h1>Welcome to DigiVerse-Ai</h1>
+
+    <p>Welcome to my first AI website!</p>
+
+    <button>Explore AI Videos</button>
 
 </body>
 </html>
