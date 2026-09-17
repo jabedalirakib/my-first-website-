@@ -5,7 +5,7 @@ Welcome to my first AI website!
 [Explore AI Videos]
 <!DOCTYPE html>
 <html>
-<head>
+<head <link rel="stylesheet" href="style.css">>
     <title>My First Website</title>
 </head>
 <body>
